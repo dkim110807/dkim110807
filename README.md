@@ -4,6 +4,8 @@
 <div align = center>
 <img width=70% src="https://github-profile-trophy.vercel.app/?username=dkim110807">
 
+<img width=70% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkim110807&layout=compact" />  
+  
 [<img width=70% src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dkim110807">](https://www.acmicpc.net/user/dkim110807)  
 
 [![Solved.ac
