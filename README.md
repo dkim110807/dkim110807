@@ -1,12 +1,20 @@
 <div align = left>
+  
 # 📊My Statistics
+
 <div align = center>
-<img width=70% src="https://github-profile-trophy.vercel.app/?username=dkim110807">
+  
+<img width=90% src="https://github-profile-trophy.vercel.app/?username=dkim110807">
 
-<img width=70% src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkim110807&layout=compact" />  
-
+<br>
+<br>
+  
 [<img width=40%, src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dkim110807">](https://solved.ac/profile/dkim110807)
 <img width=50%, src="https://github-readme-stats.vercel.app/api?username=dkim110807&show_icons=true&theme=flag-india">
+
+<br>
+  
+<img width=70%, height=80%, src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkim110807&layout=compact&theme=flag-india">
 
 ## My Stacks
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
