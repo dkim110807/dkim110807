@@ -2,9 +2,7 @@
   
 # 📊My Statistics
 
-<div align = center>
-  
-<img width=80% src="https://github-profile-trophy.vercel.app/?username=dkim110807">
+<div align = center
 
 <br>
 <br>
