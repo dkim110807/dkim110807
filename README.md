@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dkim110807&theme=flat&row=1&column=6"></a>
-<img height=160px, src="https://github-readme-stats.vercel.app/api?username=dkim110807&include_all_commits=true&show_icons=true&theme=flag-india">
+<img height=160px, src="https://github-readme-stats.vercel.app/api?username=dkim110807&include_all_commits=true&show_icons=true&theme=flag-india&count_private=true">
 <img height=160px, src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkim110807&layout=compact&theme=flag-india">
 
 ## My Stacks
